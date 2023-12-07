@@ -1,8 +1,13 @@
-.titulo{text-align: center;
-background-color: gray;}
-    
-.paragrafo1{text-align: center;}
+body{font-size: 16px;}
 
-.paragrafo2{text-align: center;}
+.principal{background-color: gray;
+    text-align: center;}
 
-.paragrafo3{text-align: center;}
+    .negrito{color: #ff0000;}
+    .imagem{width: 100%;}
+        .BENEFÍCIOS{text-align: center;}
+        .imagem-beneficios {width: 50%;}
+        .titulo{padding: 20px;}
+        .lista{display: inline-block;
+        vertical-align: top;}
+        
